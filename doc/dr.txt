@@ -1,0 +1,13 @@
+ex04
+15/20
+
+Il faut utiliser .gitignore
+
+ex04_2
+(-4) pas fait
+
+ex04_3
+
+8075 days
+(-1) in years, months and days
+
